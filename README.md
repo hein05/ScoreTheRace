@@ -1,6 +1,7 @@
 # ScoreTheRace
 
 **_C++ Project_**
+###### (Spring 2017 Course)
 
 This small program output the Scores of Race result entered with each team has the equal number of runners.Input is read on Console. This program will compute score of the winner team based on on each runners' orders of passing the finish line.
 Minimum Score (First Team to Win) is also calculated.
